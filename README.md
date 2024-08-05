@@ -10,9 +10,8 @@
 
 🛠️ Skills
 - 🐍 Python
-- 💻 Django
 - 🐘 PostgreSQL
-- 🌐 HTML, CSS, JavaScript, React
+- 🌐 HTML, CSS, JavaScript, TypeScript, React
 
 🚀 Seeking Opportunities
 - 🤓 Quick learner and dedicated professional.
