@@ -1,34 +1,43 @@
 ### Hi there, my name is Felipe Trojan 👋
 
-🚀 About Me
-- 🏗️ Civil engineer turned Full Stack Developer.
-- 💡 Passionate about technology and problem-solving.
+🚀 **About Me**  
+- 🏗️ Former Civil Engineer now focused on building modern web and mobile solutions as a Full Stack Developer.  
+- 🧠 Strong analytical mindset, shaped by engineering and sharpened through code.  
+- 💡 Always looking for ways to turn ideas into real, functional applications.
 
-🌱 Current Focus
-- 🖥️ Studying and mastering HTML, CSS, JavaScript, and React.
-- 📚 Transitioning from engineering to full-stack development.
+🌱 **Current Focus**  
+- 📱 Developing responsive and scalable applications with **React Native**, **Node.js**, **Express**, and **TypeORM**.  
+- 💻 Improving frontend and backend skills with **JavaScript**, **TypeScript**, and **PostgreSQL**.  
+- 🔁 Practicing clean code, Git workflows and agile collaboration.
 
-🛠️ Skills
-- 🐍 Python
-- 🐘 PostgreSQL
-- 🌐 HTML, CSS, JavaScript, TypeScript, React
+🛠️ **Tech Stack & Tools**  
+- **Languages:** JavaScript, TypeScript, Python, SQL  
+- **Frontend:** HTML5, CSS3, React, React Native  
+- **Backend:** Node.js, Express, TypeORM  
+- **Database:** PostgreSQL  
+- **Tools:** Git, GitHub, Trello, VS Code
 
-🚀 Seeking Opportunities
-- 🤓 Quick learner and dedicated professional.
-- 🌱 Eager to apply newfound full-stack development skills.
-- 📈 Excited about the prospect of mutual growth.
+🚀 **Looking for Opportunities**  
+- 🤝 Open to collaborating on real-world projects and learning from the community  
+- 🌱 Focused on growth, innovation, and writing better code every day  
+- 💬 Let’s connect and build something meaningful together!
 
 ## 📬 Let's Connect!
 
 <div align="center">
   <a href="https://github.com/fetrojan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fetrojan&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetrojan&layout=compact&langs_count=7&theme=merko"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fetrojan&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetrojan&layout=compact&langs_count=7&theme=merko"/>
+  </a>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="fe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="fe-PSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">       
   <img align="center" alt="fe-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="fe-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="fe-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="fe-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="fe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
@@ -36,7 +45,6 @@
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/felipe-trojan-software-engineer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/felipe-trojan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/f_trojan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
 </div>
