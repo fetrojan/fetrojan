@@ -22,7 +22,31 @@
 - 🌱 Focused on growth, innovation, and writing better code every day  
 - 💬 Let’s connect and build something meaningful together!
 
-## 📬 Let's Connect!
+  ### 💼 Featured Projects
+
+#### 📱 [PharmaFlow App (Frontend - Mobile)](https://github.com/fetrojan/projeto_modulo01)
+Aplicativo desenvolvido para otimizar a gestão de movimentação de produtos entre filiais. Possui:
+- Tela de login com autenticação
+- Listagem de produtos com busca eficiente
+- Cadastro e visualização de usuários
+- Acompanhamento de movimentações e entregas por motoristas
+- Visualização de trajetos em mapa
+
+**Tecnologias:** React Native, TypeScript, Expo, React Navigation
+
+---
+
+#### 🔧 [PharmaFlow API (Backend)](https://github.com/fetrojan/projeto_modulo2)
+API Restful responsável por gerenciar usuários, produtos e movimentações. Funcionalidades:
+- Autenticação JWT e controle de acesso
+- Cadastro e atualização de movimentações
+- Controle de status e segurança com bcrypt
+- Organização e logging com Winston
+
+**Tecnologias:** Node.js, TypeScript, Express, PostgreSQL, TypeORM, JWT
+
+---
+
 
 <div align="center">
   <a href="https://github.com/fetrojan">
@@ -30,6 +54,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetrojan&layout=compact&langs_count=7&theme=merko"/>
   </a>
 </div>
+
+## 📬 Let's Connect!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="fe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
