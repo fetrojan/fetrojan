@@ -22,30 +22,33 @@
 - 🌱 Focused on growth, innovation, and writing better code every day  
 - 💬 Let’s connect and build something meaningful together!
 
-  ### 💼 Featured Projects
-
-#### 📱 [PharmaFlow App (Frontend - Mobile)](https://github.com/fetrojan/projeto_modulo01)
-Aplicativo desenvolvido para otimizar a gestão de movimentação de produtos entre filiais. Possui:
-- Tela de login com autenticação
-- Listagem de produtos com busca eficiente
-- Cadastro e visualização de usuários
-- Acompanhamento de movimentações e entregas por motoristas
-- Visualização de trajetos em mapa
-
-**Tecnologias:** React Native, TypeScript, Expo, React Navigation
-
----
-
-#### 🔧 [PharmaFlow API (Backend)](https://github.com/fetrojan/projeto_modulo2)
-API Restful responsável por gerenciar usuários, produtos e movimentações. Funcionalidades:
-- Autenticação JWT e controle de acesso
-- Cadastro e atualização de movimentações
-- Controle de status e segurança com bcrypt
-- Organização e logging com Winston
-
-**Tecnologias:** Node.js, TypeScript, Express, PostgreSQL, TypeORM, JWT
-
----
+💼 Featured Projects
+<div align="center"> 
+<table> <tr> 
+  <td width="45%" valign="top">
+  <h4>📱 <a href="https://github.com/fetrojan/projeto_modulo01">PharmaFlow App (Frontend)</a></h4>
+    <p>Aplicativo mobile para gestão de movimentações de produtos entre filiais.</p>
+    <ul>
+      <li>Login com autenticação</li>
+      <li>Listagem com busca</li>
+      <li>Cadastro de usuários</li>
+      <li>Mapa com trajeto</li>
+    </ul>
+    <p><strong>Tecnologias:</strong> React Native, TypeScript, Expo</p>
+  </td>
+  
+  <td width="45%" valign="top">
+    <h4>🔧 <a href="https://github.com/fetrojan/projeto_modulo2">PharmaFlow API (Backend)</a></h4>
+    <p>API Restful para gerenciamento de usuários, produtos e movimentações.</p>
+    <ul>
+      <li>Autenticação JWT</li>
+      <li>CRUD completo de movimentações</li>
+      <li>Controle de status e segurança</li>
+    </ul>
+    <p><strong>Tecnologias:</strong> Node.js, TypeScript, PostgreSQL, JWT</p>
+  </td>
+</tr>
+</table> </div>
 
 
 <div align="center">
@@ -54,8 +57,6 @@ API Restful responsável por gerenciar usuários, produtos e movimentações. Fu
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetrojan&layout=compact&langs_count=7&theme=merko"/>
   </a>
 </div>
-
-## 📬 Let's Connect!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="fe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -68,7 +69,8 @@ API Restful responsável por gerenciar usuários, produtos e movimentações. Fu
   <img align="center" alt="fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
+
+## 📬 Let's Connect!
 
 <div> 
   <a href="https://www.linkedin.com/in/felipe-trojan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
